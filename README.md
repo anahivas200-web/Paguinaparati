@@ -1,4 +1,4 @@
-# Paguinaparati
+# Franklin Gutierrez 
 Para el hermoso hombre de chocolate 
 <!DOCTYPE html>
 <html lang="es">
@@ -31,7 +31,7 @@ Para el hermoso hombre de chocolate
 
   <audio controls autoplay loop>
     <source src="tu-cancion.mp3" type="audio/mpeg">
-    Tu navegador no soporta audio 😢
+    Te amo infinitamente 🫶🏽
   </audio>
 </body>
 </html>
